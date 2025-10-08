@@ -1,0 +1,9 @@
+@import "tailwindcss";
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: #bbf7d0; /* Tailwind green-200 */
+}
+#root {
+  height: 100%;
+}
